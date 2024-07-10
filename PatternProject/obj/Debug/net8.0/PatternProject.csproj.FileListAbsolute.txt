@@ -1,0 +1,14 @@
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/bin/Debug/net8.0/PatternProject
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/bin/Debug/net8.0/PatternProject.deps.json
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/bin/Debug/net8.0/PatternProject.runtimeconfig.json
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/bin/Debug/net8.0/PatternProject.dll
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/bin/Debug/net8.0/PatternProject.pdb
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.AssemblyInfoInputs.cache
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.AssemblyInfo.cs
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.csproj.CoreCompileInputs.cache
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.dll
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/refint/PatternProject.dll
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.pdb
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/PatternProject.genruntimeconfig.cache
+/home/eoncreator/RiderProjects/PatternProject/PatternProject/obj/Debug/net8.0/ref/PatternProject.dll
